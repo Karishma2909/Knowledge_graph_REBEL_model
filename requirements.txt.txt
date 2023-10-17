@@ -1,0 +1,6 @@
+python==3.10.1
+django==4.0.4
+keras==2.10.0
+tensorflow==2.10.0
+pyvis==0.3.0
+transformers==4.23.0.dev0
